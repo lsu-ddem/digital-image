@@ -1,8 +1,8 @@
 ---
-title: "Digital Image and Motion Picture Graphics"
+title: "Digital Image and Motion Graphics"
 ---
 
-# Digital Image and Motion Picture Graphics
+# Digital Image and Motion Graphics
 
 ## Course Description and Objectives
 
