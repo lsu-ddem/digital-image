@@ -2,6 +2,6 @@
 title: Dot and Line
 weight: 1
 ---
-### Lesson 1
+### [](digital-image.lsupathways.org/static/images/uploads/digitalimage.pdf)Lesson 1
 
-`<a href= "../../`static/images/uploads/digitalimage.pdf"> Digital Image PDF </a>
+[PDF](<### [digital-image.lsupathways.org/static/images/uploads/digitalimage.pdf](digital-image.lsupathways.org/static/images/uploads/digitalimage.pdf)>)
