@@ -4,4 +4,4 @@ weight: 1
 ---
 ### Lesson 1
 
-[Digital Image PDF](../../static/images/uploads/digitalimage.pdf)[](../../static/images/uploads/digitalimage.pdf)
+`<a href= "../../`static/images/uploads/digitalimage.pdf"> Digital Image PDF </a>
