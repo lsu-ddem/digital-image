@@ -1,5 +1,5 @@
 ---
-title: Lesson 1
+title: Dot and Line
 weight: 1
 ---
 
