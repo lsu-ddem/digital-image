@@ -4,4 +4,4 @@ weight: 1
 ---
 ### Lesson 1
 
-[Digital Image PDF](../../../../digitalimage.pdf)
+[Digital Image PDF](digital-image.lsupathways.org/digitalimage.pdf)
